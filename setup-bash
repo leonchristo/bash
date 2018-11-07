@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo ". ~/eco/.bashrc" >> ~/.bashrc
